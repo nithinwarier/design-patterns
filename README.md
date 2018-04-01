@@ -1,4 +1,3 @@
-Adding Design patterns. 
 
 Design pattersn are mainly divided into 3 as
 1. Creational
